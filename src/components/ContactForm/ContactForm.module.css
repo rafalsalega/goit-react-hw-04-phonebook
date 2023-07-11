@@ -1,0 +1,11 @@
+.subBtn{
+    margin-top: 10px;
+    display: block;
+}
+
+.form{
+    margin: 5px 0px;
+    padding: 10px;
+    width: fit-content;
+    border: 1px solid black;
+}
